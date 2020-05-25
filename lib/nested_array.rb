@@ -24,6 +24,7 @@ def assembled_matrix
   storage_room = 
   [ORGANIC_PRODUCE,
   CONVENTIONAL_PRODUCE]
+  return storage_room
 end
 
 def sorted_matrix
